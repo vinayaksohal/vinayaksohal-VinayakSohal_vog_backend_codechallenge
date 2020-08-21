@@ -1,0 +1,10 @@
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\bin\Debug\netcoreapp3.1\VogCodeChallenge.API.exe
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.csprojAssemblyReference.cache
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.AssemblyInfoInputs.cache
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.AssemblyInfo.cs
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\VogCodeChallenge.API.RazorTargetAssemblyInfo.cache
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\staticwebassets\VogCodeChallenge.API.StaticWebAssets.Manifest.cache
+C:\Users\user\Documents\VogChallenge\VinayakSohal_vog_backend_codechallenge\VogCodeChallenge.API\obj\Debug\netcoreapp3.1\staticwebassets\VogCodeChallenge.API.StaticWebAssets.xml
