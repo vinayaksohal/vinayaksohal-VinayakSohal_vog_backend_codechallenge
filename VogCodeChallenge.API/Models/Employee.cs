@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace VogCodeChallenge.API.Models
 {
-    public class Employee
+    public class Employee:IPoco
     {
             public int Id { get; set; }
             public string FirstName { get; set; }
