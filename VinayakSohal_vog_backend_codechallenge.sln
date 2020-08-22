@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VogCodeChallenge.API", "VogCodeChallenge.API\VogCodeChallenge.API.csproj", "{D6F815A1-D4E3-4C0C-9394-C88C1EE85A44}"
 EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{4C035241-CE32-4922-B2F2-1C8F111C7E85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuestionClass", "ClassLibrary1\QuestionClass.csproj", "{872E43B8-049C-46C3-B0D1-A4DD0DACDE8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D6F815A1-D4E3-4C0C-9394-C88C1EE85A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F815A1-D4E3-4C0C-9394-C88C1EE85A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F815A1-D4E3-4C0C-9394-C88C1EE85A44}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4C035241-CE32-4922-B2F2-1C8F111C7E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C035241-CE32-4922-B2F2-1C8F111C7E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C035241-CE32-4922-B2F2-1C8F111C7E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C035241-CE32-4922-B2F2-1C8F111C7E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872E43B8-049C-46C3-B0D1-A4DD0DACDE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872E43B8-049C-46C3-B0D1-A4DD0DACDE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872E43B8-049C-46C3-B0D1-A4DD0DACDE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872E43B8-049C-46C3-B0D1-A4DD0DACDE8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
