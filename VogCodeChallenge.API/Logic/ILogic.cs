@@ -8,7 +8,6 @@ namespace VogCodeChallenge.API.Logic
 {
     public interface ILogic<T>
     {
-        public List<T> GetEmployeeList();
-        
+        public List<T> GetEmployeeList();   
     }
 }
