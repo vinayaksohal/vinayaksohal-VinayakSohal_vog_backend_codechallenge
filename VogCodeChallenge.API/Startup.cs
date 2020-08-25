@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using VogCodeChallenge.API.Logic;
 using VogCodeChallenge.API.Models;
 using VogCodeChallenge.API.VogContext;
 
@@ -27,7 +28,8 @@ namespace VogCodeChallenge.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<IDataRepository<Employee>, InCollectionContext>();
+            services.AddScoped<ILogic<Employee>, EmployeeLogic>();
+            services.AddScoped(typeof(IDataRepository<>), typeof(InCollectionContext<>));
             services.AddControllers();
         }
 
