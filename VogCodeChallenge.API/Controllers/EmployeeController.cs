@@ -26,12 +26,30 @@ namespace VogCodeChallenge.API.Controllers
             return this._IContext.GetAll();
         }
 
-        // GET: api/employee/department/{departmentId}
         [HttpGet("department/{id}")]
         public IEnumerable<Employee> GetByDepartment(int id)
         {
-            return this._IContext.ListAll(emp=>emp.DepartmentId==id);
+            return this._IContext.ListAll(emp => emp.DepartmentId == id);
         }
-     
+        // POST api/employee
+        [HttpPost]
+        public void Post([FromBody] string value)
+        {
+
+        }
+
+        // PUT api/employee/5
+        [HttpPut("{id}")]
+        public void Put(int id, [FromBody] string value)
+        {
+
+        }
+
+        // DELETE api/Employee/5
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+
+        }
     }
 }
