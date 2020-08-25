@@ -11,6 +11,7 @@ namespace VogCodeChallenge.API
         {
             switch (testObject)
             {
+
                 case 1:
                 case 2:
                     return doubler((int)testObject);
