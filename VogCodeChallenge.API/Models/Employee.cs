@@ -16,6 +16,7 @@ namespace VogCodeChallenge.API.Models
             [ForeignKey("DepartmentId")]
             [NotMapped]
             public Department Departments;
+    
             public int DepartmentId { get; set; }
     }
 }

@@ -7,5 +7,6 @@ namespace VogCodeChallenge.API.Models
 {
     public interface IPoco
     {
+
     }
 }
