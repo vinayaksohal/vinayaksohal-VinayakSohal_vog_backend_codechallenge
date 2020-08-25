@@ -13,6 +13,7 @@ namespace VogCodeChallenge.API.VogContext
 {
     public class InCollectionContext<T> : IDataRepository<T>
     {
+
         private readonly ILogic<T> _ILogic;
         public InCollectionContext(ILogic<T> ILogic)
         {

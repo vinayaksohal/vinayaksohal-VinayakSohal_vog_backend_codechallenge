@@ -9,6 +9,7 @@ using VogCodeChallenge.API.Models;
 
 namespace VogCodeChallenge.API.VogContext
 {
+
     public class VogCodeContext : DbContext
     {
         protected readonly string _connStr = string.Empty;

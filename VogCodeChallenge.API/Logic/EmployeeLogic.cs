@@ -41,5 +41,6 @@ namespace VogCodeChallenge.API.Logic
         {
             return this.employees;
         }
+
     }
 }

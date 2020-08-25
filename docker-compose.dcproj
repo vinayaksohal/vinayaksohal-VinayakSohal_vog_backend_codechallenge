@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Windows</DockerTargetOS>
-    <ProjectGuid>9355301c-fe6a-45d3-a105-38bf320d69a9</ProjectGuid>
+    <ProjectGuid>6d360f2a-6e48-4f3b-9da9-a4fac9f8dcdb</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://{ServiceIPAddress}{ServicePort}/weatherforecast</DockerServiceUrl>
     <DockerServiceName>vogcodechallenge.api</DockerServiceName>
