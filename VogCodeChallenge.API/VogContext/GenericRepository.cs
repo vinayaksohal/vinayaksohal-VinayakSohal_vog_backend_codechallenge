@@ -10,6 +10,7 @@ namespace VogCodeChallenge.API.VogContext
 
     public class GenericRepository<T> : IDataRepository<T> where T : class
     {
+
         public IEnumerable<T> GetAll(params Expression<Func<T, object>>[] navigationProperties)
         {
             IEnumerable<T> list;

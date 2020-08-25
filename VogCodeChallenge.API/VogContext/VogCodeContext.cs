@@ -12,6 +12,7 @@ namespace VogCodeChallenge.API.VogContext
 
     public class VogCodeContext : DbContext
     {
+
         protected readonly string _connStr = string.Empty;
         public virtual DbSet<Employee> Employees { get; set; }
         public virtual DbSet<Department> Departments { get; set; }
