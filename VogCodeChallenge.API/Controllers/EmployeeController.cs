@@ -10,6 +10,7 @@ using VogCodeChallenge.API.VogContext;
 
 namespace VogCodeChallenge.API.Controllers
 {
+
     [Route("api/[controller]")]
     [ApiController]
     public class EmployeeController : ControllerBase
