@@ -13,7 +13,6 @@ namespace QuestionClass
 
         public static void TestQuestion()
         {
-            
             using (var enumerator = NamesList.GetEnumerator())
             {
                 while (enumerator.MoveNext())
